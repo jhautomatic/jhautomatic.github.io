@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /404
-
-Sitemap: https://www.jhbbearing.com/sitemap.xml
+Sitemap: https://jhautomatic.github.io/sitemap.xml
